@@ -1,0 +1,6 @@
+{
+  "name": "ReturnTracker - অনলাইন বিজনেস রিটার্ন ও প্রোডাক্ট স্টক ম্যানেজার",
+  "description": "অনলাইন ব্যবসায়ীদের দৈনিক ও মাসিক পার্সেল রিটার্ন এন্ট্রি, টাকার হিসাব, ক্ষতিগ্রস্ত প্রোডাক্ট ও কুরিয়ার ট্র্যাকিং অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
